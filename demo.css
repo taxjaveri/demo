@@ -1,0 +1,15 @@
+
+body{
+    padding-top: 230px;
+}
+.row{
+    padding-bottom: 70px;
+}
+.nav-link{
+    margin-right: 40px;
+    align-items: center;
+}
+p{
+    font-size: 21px!important;
+    
+}
